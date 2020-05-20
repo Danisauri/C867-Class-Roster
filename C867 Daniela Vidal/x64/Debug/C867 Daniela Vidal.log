@@ -1,0 +1,15 @@
+﻿  networkStudent.cpp
+  roster.cpp
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(30,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(35,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(40,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(45,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(50,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(55,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(59,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\C867 Daniela Vidal\roster.cpp(63,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+  Generating Code...
+  C867 Daniela Vidal.vcxproj -> C:\Users\danie\OneDrive - Western Governors University\C867 Scripting and Programming - Applications\C867 Daniela Vidal\x64\Debug\C867 Daniela Vidal.exe
